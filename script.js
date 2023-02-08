@@ -207,5 +207,5 @@ let hadiahKamu = function() {
 
 async function menuju() {
   window.location =
-    "https://api.whatsapp.com/send?phone=+6281299709960&text=Rul ayo kita baikan...";
+    "https://api.whatsapp.com/send?phone=+628118743476&text=Rul ayo kita baikan...";
 }
